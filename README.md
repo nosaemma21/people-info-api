@@ -7,6 +7,10 @@ This api just has one endpoint to get the details of people which include name, 
 It's a containerized application and unhosted so you know the drill😗😗
 No copyright, feel free to use and even host as yours, and leave a star 💓
 
+### Link to dockerhub
+
+[DockerHub](https://hub.docker.com/repository/docker/nosaemma21/peopledetailsapi/general)
+
 ## Endpoint
 
 http://localhost:3000/api/people
