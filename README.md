@@ -12,8 +12,11 @@ No copyright, feel free to use and even host as yours, and leave a star 💓
 http://localhost:3000/api/people
 
 ```
-docker run -p 3000:3000 --name customname nosaemma21/peopledetailsapi
+docker run -p 3000:3000 --name customname nosaemma21/peopledetailsapi:new
 ```
+
+It includes only two tags which are
+`new` and `v2`
 
 ## Note
 
